@@ -1,0 +1,1 @@
+Artefato de teste para validação do processo de Gestão de Configuração.
